@@ -7,7 +7,7 @@
 2) Purchases (purchaseId, userId, itemId, date)
 3) Items (itemId, price).
 
-<b>Ответы в файле answer.md</b>
+<b>Ответы в файле <a href="https://github.com/tashacraft/test_tasks/blob/main/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BA%20%D0%91%D0%94/answer.md">answer.md</a></b>
 
 <b>Задачи</b>
 
