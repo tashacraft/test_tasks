@@ -1,12 +1,14 @@
 # Тестовое задание на SQL-запросы
 
 <b>Дано</b>
+
 У вас SQL база с таблицами:
 1) Users(userId, age)
 2) Purchases (purchaseId, userId, itemId, date)
 3) Items (itemId, price).
 
 <b>Задачи</b>
+
 Напишите SQL запросы для расчета следующих метрик:
 
 А) какую сумму в среднем в месяц тратит:
