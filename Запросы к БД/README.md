@@ -7,6 +7,8 @@
 2) Purchases (purchaseId, userId, itemId, date)
 3) Items (itemId, price).
 
+<b>Ответы в файле answer.md</b>
+
 <b>Задачи</b>
 
 Напишите SQL запросы для расчета следующих метрик:
