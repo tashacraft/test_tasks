@@ -1,6 +1,6 @@
 # Ответы
 
-Я сгенерировала данные для таблиц с помощью Python (в файле creat_data.ypynb):
+Я сгенерировала данные для таблиц с помощью Python (в файле <a href="https://github.com/tashacraft/test_tasks/blob/main/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BA%20%D0%91%D0%94/create_data.ipynb">create_data.ypynb</a>):
 
 Таблица Users - возраст от 18 до 80 лет, всего 300 записей
 
